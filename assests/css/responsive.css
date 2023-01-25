@@ -1,0 +1,729 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.wrapp .container {
+    max-width: 100%;
+}
+.wrapp .box a {
+    padding: 6px 10px;
+}
+.wrapp .box a .text {
+    font-size: 5.09299px;
+line-height: 6px;
+    padding-bottom: 80px;
+}
+.wrapp .box a:hover .text {
+    font-size: 5px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img {
+    width: 9.76px;
+height: 9.22px;
+    border: 1px solid #FFFFFF;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img:nth-child(2) {
+    left:2px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img:nth-child(1) {
+    left: 2.5px !IMPORTANT;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img {
+    max-width: 5px;
+}
+.wrapp .box a .arrow-wrapp .read-more {
+    font-size: 5px;
+    line-height: 14px;
+}
+header {
+    padding: 55px 0 35px 0;
+}
+.wrapp {
+    padding-bottom: 60px;
+}
+header .box img {
+    max-width: 238px;
+}
+header .box a {
+    left: -50px;
+    max-width: 15px;
+}
+
+.inception .inception-inner .item-end p {
+    font-size: 18.5783px;
+    line-height: 23px;
+    margin-bottom: 5px;
+}
+.inception .inception-inner .item-end p.text2 {
+    font-size: 5.91552px;
+line-height: 7px;
+        max-width: 150px;
+}
+
+.inception .inception-inner .item-left img {
+    margin-right: 0px;
+}
+.inception .inception-inner .item-left {
+    max-width: 128px;
+    padding-right: 40px;
+}
+.inception .inception-inner .item-end h2 {
+    margin-bottom: 11px;
+    font-size: 11.8029px;
+line-height: 14px;
+}
+.inception .inception-inner .item-end p.text1 {
+    font-size: 6.76059px;
+line-height: 8px;
+        max-width: 117px;
+}
+.inception {
+    padding-bottom: 40px;
+}
+
+.identity .item-left img {
+    max-width: 88px;
+}
+.identity .item-end h2 {
+   font-size: 11.8029px;
+line-height: 14px;
+margin-bottom: 8px;
+}
+.identity .item-end p {
+    font-size: 5.91552px;
+line-height: 7px;
+}
+.identity .item-end {
+    max-width: 176px;
+}
+.identity .item-left {
+    margin-right: 0;
+    width: 100%;
+    max-width: 88px;
+}
+.justify-content-center {
+    justify-content: space-between !important;
+}
+footer ul li a {
+    font-size: 7.05861px;
+    line-height: 9px;
+}
+.Mint-shop .Mint-shop-inner .item-left {
+    margin-right: 40px;
+}
+footer {
+    padding: 20px 0;
+}
+
+
+
+
+
+.oumm-page .oumm-page-inner .item-end h2 {
+    font-size: 11.8029px;
+line-height: 14px;
+    margin-bottom: 10px;
+}
+.oumm-page .oumm-page-inner .item-end p {
+    font-size: 5.746px;
+line-height: 7px;
+}
+.oumm-page .oumm-page-inner .item-left {
+    max-width: 170px;
+    margin-right: 33px;
+}
+.oumm-page.about-us01 .item-left {
+    margin-left: 33px;
+    margin-right: 0 !important;
+}
+
+footer .justify-content-center {
+	justify-content: center !important;
+}
+footer ul li a {
+    font-size: 7.05861px;
+    line-height: 9px;
+}
+.oumm-page .oumm-page-inner .item-left {
+    width: 100%;
+    max-width: 80px;
+    margin-right: 36px;
+}
+.oumm-page {
+    padding: 20px 0;
+}
+
+
+
+.community .item-left {
+    max-width: 88px;
+    margin-right: 35px;
+}
+.community .item-end h2 {
+    font-size: 11.8029px;
+line-height: 14px;
+    margin-bottom: 20px;
+}
+.community .item-end p {
+   font-size: 5.91552px;
+line-height: 7px;
+}
+.community .item-end {
+    width: 100%;
+    max-width: 342px;
+}
+.Emperor .Emperor-inner .item-left footer ul li {
+    margin-right: 5px;
+}
+.Emperor .Emperor-inner .item-left {
+    max-width: 140px;
+    margin-right: 30px;
+}
+.Emperor .Emperor-inner .item-end p {
+    font-size: 5.91552px;
+    line-height: 7px;
+}
+.Emperor .Emperor-inner .item-left footer {
+    padding-top: 0;
+}
+
+.wrapp .box a:hover .arrow-wrapp .read-more {
+    margin-left: 0;
+}
+.disclaimer .disclaimer-inner .item-end h2 {
+    font-size: 11.8029px;
+line-height: 14px;
+margin-bottom: 15px;
+}
+.disclaimer .container{
+    max-width: 100%;
+}
+.disclaimer .disclaimer-inner .item-left p {
+    font-size: 5.91552px;
+    line-height: 7px;
+}
+.disclaimer .disclaimer-inner .item-left {
+    max-width: 635px;
+    margin-right: 0;
+}
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.wrapp .container {
+    max-width: 540px;
+}
+.wrapp .box a {
+    padding: 11.55px 20px;
+}
+.wrapp .box a .text {
+    font-size: 10.1982px;
+line-height: 12px;
+    padding-bottom: 145px;
+}
+.wrapp .box a:hover .text {
+    font-size: 12px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img {
+    width: 26.79px;
+    height: 25.3px;
+    border: 1.4884px solid #FFFFFF;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img:nth-child(2) {
+    left: 8px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img {
+    max-width: 15px;
+}
+.wrapp .box a .arrow-wrapp .read-more {
+    font-size: 12px;
+    line-height: 14px;
+}
+header {
+    padding: 55px 0 35px 0;
+}
+.wrapp {
+    padding-bottom: 100px;
+}
+header .box img {
+    max-width: 478px;
+}
+header .box a {
+    left: -90px;
+    max-width: 26px;
+}
+	
+
+.inception .inception-inner .item-end p {
+    font-size: 18.5783px;
+    line-height: 23px;
+    margin-bottom: 5px;
+}
+.inception .inception-inner .item-end p.text2 {
+    font-size: 11.8559px;
+    line-height: 14px;
+        max-width: 305px;
+}
+
+.inception .inception-inner .item-left img {
+    margin-right: 144px;
+}
+.inception .inception-inner .item-left {
+    max-width: 175px;
+    margin-right: 88px;
+}
+.inception .inception-inner .item-end h2 {
+    margin-bottom: 20px;
+    font-size: 23.6553px;
+    line-height: 29px;
+}
+.inception .inception-inner .item-end p.text1 {
+    font-size: 13.5496px;
+    line-height: 17px;
+        max-width: 235px;
+}
+.inception {
+    padding-bottom: 40px;
+}
+
+.identity .item-left img {
+    max-width: 175px;
+}
+.identity .item-end h2 {
+   font-size: 23.6553px;
+line-height: 29px;
+    line-height: 23px;
+}
+.identity .item-end p {
+    font-size: 11.8559px;
+line-height: 14px;
+}
+.identity .item-end {
+    max-width: 350px;
+}
+.identity .item-left {
+    margin-right: 0;
+    width: 100%;
+    max-width: 220px;
+}
+.justify-content-center {
+    justify-content: space-between !important;
+}
+
+
+
+.oumm-page .oumm-page-inner .item-end h2 {
+    font-size: 23.6553px;
+    line-height: 29px;
+    margin-bottom: 16px;
+}
+.oumm-page .oumm-page-inner .item-end p {
+    font-size: 11.5162px;
+    line-height: 14px;
+}
+.oumm-page .oumm-page-inner .item-left {
+    max-width: 175px;
+    margin-right: 67px;
+}
+.oumm-page.about-us01 .item-left {
+    margin-left: 67px;
+    margin-right: 0;
+}
+
+footer .justify-content-center {
+	justify-content: center !important;
+}
+footer ul li a {
+    font-size: 7.05861px;
+    line-height: 9px;
+}
+
+
+.community .item-left {
+    max-width: 175px;
+    margin-right: 75px;
+}
+.community .item-end h2 {
+    font-size: 23.6553px;
+    line-height: 29px;
+    margin-bottom: 25px;
+}
+.community .item-end p {
+    font-size: 11.8559px;
+    line-height: 14px;
+}
+.community .item-end {
+    width: 100%;
+    max-width: 342px;
+}
+
+.Emperor .Emperor-inner .item-end p {
+    font-size: 14px;
+    line-height: 18px;
+}
+.Emperor .Emperor-inner .item-left {
+    margin-right: 50px;
+}
+.disclaimer .disclaimer-inner .item-end h2 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.disclaimer .container{
+    max-width: 100%;
+}
+.disclaimer .disclaimer-inner .item-left p {
+    font-size: 9.5505px;
+    line-height: 11px;
+}
+
+
+
+
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.wrapp .container {
+    max-width: 540px;
+}
+.wrapp .box a {
+    padding: 11.55px 20px;
+}
+.wrapp .box a .text {
+    font-size: 10.1982px;
+line-height: 12px;
+    padding-bottom: 145px;
+}
+.wrapp .box a:hover .text {
+    font-size: 12px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img {
+    width: 26.79px;
+    height: 25.3px;
+    border: 1.4884px solid #FFFFFF;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img:nth-child(2) {
+    left: 8px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img {
+    max-width: 15px;
+}
+.wrapp .box a .arrow-wrapp .read-more {
+    font-size: 12px;
+    line-height: 14px;
+}
+header {
+    padding: 55px 0 35px 0;
+}
+.wrapp {
+    padding-bottom: 100px;
+}
+header .box img {
+    max-width: 478px;
+}
+header .box a {
+    left: -90px;
+    max-width: 26px;
+}
+.inception .inception-inner .item-end p {
+    font-size: 18.5783px;
+    line-height: 23px;
+    margin-bottom: 5px;
+}
+.inception .inception-inner .item-end p.text2 {
+    font-size: 11.8559px;
+    line-height: 14px;
+        max-width: 305px;
+}
+
+.inception .inception-inner .item-left img {
+    margin-right: 144px;
+}
+.inception .inception-inner .item-left {
+    max-width: 175px;
+    margin-right: 88px;
+}
+.inception .inception-inner .item-end h2 {
+    margin-bottom: 20px;
+    font-size: 23.6553px;
+    line-height: 29px;
+}
+.inception .inception-inner .item-end p.text1 {
+    font-size: 13.5496px;
+    line-height: 17px;
+        max-width: 235px;
+}
+.inception {
+    padding-bottom: 40px;
+}
+
+.identity .item-left img {
+    max-width: 175px;
+}
+.identity .item-end h2 {
+   font-size: 23.6553px;
+line-height: 29px;
+    line-height: 23px;
+}
+.identity .item-end p {
+    font-size: 11.8559px;
+line-height: 14px;
+}
+.identity .item-end {
+    max-width: 350px;
+}
+.identity .item-left {
+    margin-right: 0;
+    width: 100%;
+    max-width: 320px;
+}
+.justify-content-center {
+    justify-content: space-between !important;
+}
+.oumm-page .oumm-page-inner .item-end h2 {
+    font-size: 23.6553px;
+    line-height: 29px;
+    margin-bottom: 16px;
+}
+.oumm-page .oumm-page-inner .item-end p {
+    font-size: 11.5162px;
+    line-height: 14px;
+}
+.oumm-page .oumm-page-inner .item-left {
+    max-width: 175px;
+    margin-right: 67px;
+}
+.oumm-page.about-us01 .item-left {
+    margin-left: 67px;
+    margin-right: 0;
+}
+
+footer .justify-content-center {
+	justify-content: center !important;
+}
+footer ul li a {
+    font-size: 7.05861px;
+    line-height: 9px;
+}
+
+.community .item-left {
+    max-width: 175px;
+    margin-right: 75px;
+}
+.community .item-end h2 {
+    font-size: 23.6553px;
+    line-height: 29px;
+    margin-bottom: 25px;
+}
+.community .item-end p {
+    font-size: 11.8559px;
+    line-height: 14px;
+}
+.community .item-end {
+    width: 100%;
+    max-width: 342px;
+}
+.Emperor .Emperor-inner .item-end p {
+    font-size: 14px;
+    line-height: 18px;
+}
+.Emperor .Emperor-inner .item-left {
+    margin-right: 50px;
+}
+.disclaimer .disclaimer-inner .item-end h2 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.disclaimer .container{
+    max-width: 100%;
+}
+.disclaimer .disclaimer-inner .item-left p {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.wrapp .container {
+    max-width: 764px;
+}
+.wrapp .box a {
+    padding: 15px 27px;
+}
+.wrapp .box a .text {
+    font-size: 13.9831px;
+    line-height: 17px;
+    padding-bottom: 190px;
+}
+.wrapp .box a:hover .text {
+    font-size: 16px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img {
+    width: 26.79px;
+    height: 25.3px;
+    border: 1.4884px solid #FFFFFF;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img:nth-child(2) {
+    left: 8px;
+}
+.wrapp .box a .arrow-wrapp .aroow-img img {
+    max-width: 15px;
+}
+.wrapp .box a .arrow-wrapp .read-more {
+    font-size: 12px;
+    line-height: 14px;
+}
+header {
+    padding: 55px 0;
+}
+.wrapp {
+    padding-bottom: 100px;
+}
+
+.inception .inception-inner .item-end p {
+    font-size: 18.5783px;
+    line-height: 23px;
+}
+.inception .inception-inner .item-end p.text2 {
+    font-size: 18.9131px;
+    line-height: 23px;
+}
+.inception .inception-inner .item-left img {
+    margin-right: 144px;
+}
+
+.identity .item-left img {
+    max-width: 240px;
+}
+.identity .item-end h2 {
+    margin-bottom: 30px;
+    font-size: 32.4345px;
+    line-height: 40px;
+}
+.identity .item-end p {
+    font-size: 16.256px;
+    line-height: 20px;
+}
+.identity .item-end {
+    max-width: 470px;
+}
+
+
+
+
+
+
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+    
+    
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px){}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+	
+	
+	
+	
+}
+/* 
+2160*1440
+2560*1440
+1920×1080
+1600×900
+1536×864
+1440×900
+1366×768    
+1280×720    
+1280×800    
+1280×1024   
+1024×768    
+768×1024
+ */
+
+
+
+
+
+
+
+
+
+
+
