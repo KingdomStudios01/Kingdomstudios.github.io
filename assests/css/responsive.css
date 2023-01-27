@@ -242,6 +242,15 @@ margin-bottom: 15px;
     margin-right: 0;
 }
 
+.Emperor .Emperor-inner .item-end footer ul li {
+    margin-right: 5px;
+}
+.Emperor .Emperor-inner .item-end footer ul li a {
+    font-size: 6.05861px;
+}
+.Emperor .Emperor-inner .item-end footer {
+    padding-top: 60px;
+}
 
 
 

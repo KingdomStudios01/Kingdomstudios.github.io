@@ -352,8 +352,9 @@ color: #FFFFFF;
 .Mint-shop .Mint-shop-inner .item-left img{}
 .Mint-shop .Mint-shop-inner .item-end{}
 .Mint-shop .Mint-shop-inner .item-end a{}
-.Mint-shop .Mint-shop-inner .item-end a.oumm{
+.Mint-shop .Mint-shop-inner .item-end a.oumm {
     margin-bottom: 70px;
+    text-align: center;
 }
 .Mint-shop .Mint-shop-inner .item-end a.oumm img{}
 .Mint-shop .Mint-shop-inner .item-end a img{}
@@ -502,14 +503,16 @@ margin-bottom: 15px;
 /* ----------------------------------------------
             Emperor start
 ---------------------------------------------- */
+
+
 .Emperor {
     padding-bottom: 60px;
 }
 .Emperor .Emperor-inner{}
 .Emperor .Emperor-inner .item-left{}
-.Emperor .Emperor-inner .item-left{
+.Emperor .Emperor-inner .item-left {
     max-width: 525px;
-    margin-right: 90px;
+    margin-right: 20px;
 }
 .Emperor .Emperor-inner .item-left .box{}
 .Emperor .Emperor-inner .item-left .box a{}
@@ -520,6 +523,10 @@ margin-bottom: 15px;
 .Emperor .Emperor-inner .item-left footer ul li a{}
 .Emperor .Emperor-inner .item-end{
     max-width: 515px;
+}
+.Emperor .Emperor-inner .item-end footer{
+    padding-bottom: 0;
+    padding-top: 80px;
 }
 .Emperor .Emperor-inner .item-end p{
     margin-bottom: 0;
